@@ -1,3 +1,3 @@
-### Practice-1.4
-### Практика по "Верстка блока. Продвинутая стилизация"
-https://julia-vita.github.io/practice/index_burger
+### Practice-1.5
+### Практика по "JavaScript в браузере"
+https://julia-vita.github.io/practice/index_brands
